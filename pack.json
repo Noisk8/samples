@@ -1,0 +1,11 @@
+{
+  "dos": "samples-prueba/dos.wav",
+  "french": "samples-prueba/french.wav",
+  "una": "samples-prueba/una.wav",
+  "voces": [
+    "samples-prueba/voz1.wav",
+    "samples-prueba/voz2.wav",
+    "samples-prueba/voz3.wav"
+  ],
+  "vrisas": "samples-prueba/vrisas.wav"
+}
