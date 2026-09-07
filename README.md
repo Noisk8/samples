@@ -22,3 +22,8 @@ Después de registrar un audio, se llama por su nombre:
 p1 >> loop("lenin", dur=4)
 p2 >> loop("lenin_camino_al_socialismo", dur=4)
 ```
+
+
+# sample tools
+
+### [To clean voices](https://vocalremover.org/es/)
